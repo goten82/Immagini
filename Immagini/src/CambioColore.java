@@ -22,7 +22,6 @@ public class CambioColore implements Trasformazione {
 				img1.setPixel(i, j, c2);
 			}
 		}
-		
 		return img1;
 	}
 
